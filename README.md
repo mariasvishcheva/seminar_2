@@ -1,4 +1,4 @@
-# seminar_2
+# seminar2
 {
  "cells": [
   {
